@@ -20,7 +20,7 @@ public class Home_Page extends Activity{
         img1.setOnClickListener(new View.OnClickListener() {
             public void onClick(View view)
             {
-                Intent i = new Intent(Home_Page.this, Links.class);
+                Intent i = new Intent(Home_Page.this, WebViewActivity.class);
                 startActivity(i);
             }
         });
@@ -29,7 +29,7 @@ public class Home_Page extends Activity{
         img2.setOnClickListener(new View.OnClickListener() {
             public void onClick(View view)
             {
-                Intent i = new Intent(Home_Page.this, Links.class);
+                Intent i = new Intent(Home_Page.this, WebViewActivity.class);
                 startActivity(i);
             }
         });
@@ -38,7 +38,7 @@ public class Home_Page extends Activity{
         img3.setOnClickListener(new View.OnClickListener() {
             public void onClick(View view)
             {
-                Intent i = new Intent(Home_Page.this, Links.class);
+                Intent i = new Intent(Home_Page.this, WebViewActivity.class);
                 startActivity(i);
             }
         });

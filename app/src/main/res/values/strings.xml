@@ -10,10 +10,10 @@
     <string name="male">Male</string>
     <string name="female">Female</string>
     <string name="save">Save</string>
-    <string name="txtGoogle"><a href="http://www.google.com">Google</a></string>
-    <string name="txtYahoo"><a href="http://www.yahoo.com">Yahoo</a></string>
-    <string name="txtGmail"><a href="http://www.gmail.com">Gmail</a></string>
-    <string name="txtWiki"><a href="http://www.wikipedia.org">Wiki</a></string>
+    <string name="txtGoogle">Google</string>
+    <string name="txtYahoo">Yahoo</string>
+    <string name="txtGmail">Gmail</string>
+    <string name="txtWiki">Wiki</string>
     <string name="prompt_password">Password (optional)</string>
     <string name="action_login">Login</string>
     <string name="action_sign_up">Sign Up</string>
